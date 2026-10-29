@@ -1,0 +1,13 @@
+column,missing_values,missing_percent,data_type,distinct_values
+ride_id,0,0.0,str,10000
+customer_id,122,1.2,str,2171
+driver_id,153,1.5,str,450
+booking_time,65,0.64,str,9837
+pickup_city,93,0.91,str,10
+dropoff_city,96,0.94,str,10
+vehicle_type,60,0.59,str,5
+distance_km,153,1.5,float64,2447
+fare_amount,197,1.94,float64,8621
+ride_status,81,0.8,str,5
+trip_duration_min,131,1.29,float64,153
+customer_rating,364,3.58,float64,26
